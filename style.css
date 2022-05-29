@@ -24,9 +24,9 @@ body {
 
 main {
   background: linear-gradient(360deg, var(--background-color), rgb(200, 1, 1));
-  width: 375px;
-  height: 812px;
-  color: white;
+  width: 100vw;
+  min-height: 812px;
+  height: 100vh;
 }
 
 .container {
